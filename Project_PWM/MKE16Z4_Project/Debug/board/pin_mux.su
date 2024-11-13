@@ -1,0 +1,15 @@
+C:\Users\trieu\Desktop\lap_trinh_nhung\MKE16Z4_Project_PWM\MKE16Z4_Project\drivers/fsl_clock.h:594:20:CLOCK_EnableClock	16	static
+C:\Users\trieu\Desktop\lap_trinh_nhung\MKE16Z4_Project_PWM\MKE16Z4_Project\drivers/fsl_port.h:356:20:PORT_SetPinConfig	32	static
+C:\Users\trieu\Desktop\lap_trinh_nhung\MKE16Z4_Project_PWM\MKE16Z4_Project\drivers/fsl_port.h:459:20:PORT_SetPinMux	24	static
+C:\Users\trieu\Desktop\lap_trinh_nhung\MKE16Z4_Project_PWM\MKE16Z4_Project\drivers/fsl_port.h:474:20:PORT_EnablePinsDigitalFilter	24	static
+C:\Users\trieu\Desktop\lap_trinh_nhung\MKE16Z4_Project_PWM\MKE16Z4_Project\drivers/fsl_port.h:528:20:PORT_SetPinInterruptConfig	24	static
+../board/pin_mux.c:38:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:60:6:BOARD_InitPins	8	static
+../board/pin_mux.c:97:6:BOARD_InitOSCPins	8	static
+../board/pin_mux.c:129:6:BOARD_InitTOUCHPins	16	static
+../board/pin_mux.c:189:6:BOARD_InitBUTTONSPins	24	static
+../board/pin_mux.c:255:6:BOARD_InitTHERMISTORPins	16	static
+../board/pin_mux.c:311:6:BOARD_InitACCELPins	32	static
+../board/pin_mux.c:418:6:BOARD_InitDEBUG_UARTPins	16	static
+../board/pin_mux.c:472:6:BOARD_InitLEDsPins	32	static
+../board/pin_mux.c:562:6:BOARD_InitCANPins	24	static

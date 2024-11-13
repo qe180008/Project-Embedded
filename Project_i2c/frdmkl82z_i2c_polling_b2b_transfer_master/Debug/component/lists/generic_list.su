@@ -1,0 +1,14 @@
+C:\Users\trieu\Desktop\lap_trinh_nhung\frdmkl82z_i2c_polling_b2b_transfer_master\frdmkl82z_i2c_polling_b2b_transfer_master\drivers/fsl_common.h:482:28:DisableGlobalIRQ	16	static
+C:\Users\trieu\Desktop\lap_trinh_nhung\frdmkl82z_i2c_polling_b2b_transfer_master\frdmkl82z_i2c_polling_b2b_transfer_master\drivers/fsl_common.h:509:24:EnableGlobalIRQ	24	static
+../component/lists/generic_list.c:37:6:LIST_Init	16	static
+../component/lists/generic_list.c:60:15:LIST_GetList	16	static
+../component/lists/generic_list.c:81:15:LIST_AddTail	24	static
+../component/lists/generic_list.c:125:15:LIST_AddHead	24	static
+../component/lists/generic_list.c:168:23:LIST_RemoveHead	24	static
+../component/lists/generic_list.c:212:23:LIST_GetHead	16	static
+../component/lists/generic_list.c:232:23:LIST_GetNext	16	static
+../component/lists/generic_list.c:252:23:LIST_GetPrev	16	static
+../component/lists/generic_list.c:272:15:LIST_RemoveElement	24	static
+../component/lists/generic_list.c:322:15:LIST_AddPrevElement	24	static
+../component/lists/generic_list.c:368:10:LIST_GetSize	16	static
+../component/lists/generic_list.c:387:10:LIST_GetAvailableSize	16	static

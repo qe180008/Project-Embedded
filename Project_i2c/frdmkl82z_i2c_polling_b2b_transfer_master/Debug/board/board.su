@@ -1,0 +1,2 @@
+C:\Users\trieu\Desktop\lap_trinh_nhung\frdmkl82z_i2c_polling_b2b_transfer_master\frdmkl82z_i2c_polling_b2b_transfer_master\drivers/fsl_clock.h:681:20:CLOCK_SetLpuartClock	16	static
+../board/board.c:24:6:BOARD_InitDebugConsole	16	static

@@ -1,0 +1,15 @@
+C:\Users\nguye\Documents\MCUXpressoIDE_11.9.1_2170\workspace\MKE16Z4_Project\drivers/fsl_clock.h:594:20:CLOCK_EnableClock	16	static
+C:\Users\nguye\Documents\MCUXpressoIDE_11.9.1_2170\workspace\MKE16Z4_Project\drivers/fsl_port.h:356:20:PORT_SetPinConfig	32	static
+C:\Users\nguye\Documents\MCUXpressoIDE_11.9.1_2170\workspace\MKE16Z4_Project\drivers/fsl_port.h:459:20:PORT_SetPinMux	24	static
+C:\Users\nguye\Documents\MCUXpressoIDE_11.9.1_2170\workspace\MKE16Z4_Project\drivers/fsl_port.h:474:20:PORT_EnablePinsDigitalFilter	24	static
+C:\Users\nguye\Documents\MCUXpressoIDE_11.9.1_2170\workspace\MKE16Z4_Project\drivers/fsl_port.h:528:20:PORT_SetPinInterruptConfig	24	static
+../board/pin_mux.c:38:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:60:6:BOARD_InitPins	8	static
+../board/pin_mux.c:106:6:BOARD_InitOSCPins	8	static
+../board/pin_mux.c:138:6:BOARD_InitTOUCHPins	16	static
+../board/pin_mux.c:198:6:BOARD_InitBUTTONSPins	24	static
+../board/pin_mux.c:264:6:BOARD_InitTHERMISTORPins	16	static
+../board/pin_mux.c:320:6:BOARD_InitACCELPins	32	static
+../board/pin_mux.c:427:6:BOARD_InitDEBUG_UARTPins	16	static
+../board/pin_mux.c:481:6:BOARD_InitLEDsPins	32	static
+../board/pin_mux.c:571:6:BOARD_InitCANPins	24	static
